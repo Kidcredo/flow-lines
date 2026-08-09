@@ -1,5 +1,7 @@
 # Flow Lines
 
+> **This tool has moved!** Flow Lines is now hosted at **[drawingbots.com/tools/flow-lines](https://drawingbots.com/tools/flow-lines/)**. The old GitHub Pages URL (`msurguy.github.io/flow-lines`) now shows a notice and redirects there — `docs/index.html` in this repo is that redirect page, not the app. Rebuilding with `npm run build` would overwrite it with the old app, so don't rebuild unless you intend to undo the redirect.
+
 > A Vue.js project for generating SVGs based on mathematical formulas.
 
 # Interface
